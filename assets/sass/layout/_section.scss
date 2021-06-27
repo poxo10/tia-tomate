@@ -1,0 +1,93 @@
+.section--orange {
+  background-color: $jelly-bean;
+}
+
+.section--gray {
+  background-color: $quick-silver;
+  padding: 100px 0;
+}
+
+.section__title__gray {
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $large;
+  color: $white;
+}
+
+.section__gray__text {
+  font-family: $raleway;
+  font-weight: $regular;
+  font-size: $medium;
+  color: $white;
+}
+
+.section__title {
+  font-family: $raleway;
+  font-weight: $extra-light;
+  font-size: $xx-large;
+  color: $white;
+  margin: 0;
+  padding: 200px 0;
+}
+.section__title__emphasis {
+  font-size: $xx-large;
+  font-weight: $bold;
+  text-transform: uppercase;
+}
+
+.section__container {
+  text-align: center;
+}
+
+.section--white {
+  padding: 100px 0;
+}
+
+.section__title__white {
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $large;
+}
+
+.section__white__text {
+  font-family: $raleway;
+  font-weight: $regular;
+  font-size: $medium;
+}
+
+.section_about {
+  background-color: $jelly-bean;
+}
+
+.section__title_about {
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $xx-large;
+  color: $white;
+  margin: 0;
+  padding: 100px 0;
+}
+
+.section__white__title {
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $large;
+  margin: 20px;
+}
+
+.section__image {
+  padding-top: 100px;
+}
+
+.section__contact {
+  background-color: $jelly-bean;
+}
+
+.section__contact__title {
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $x-large;
+  color: $white;
+  padding-top: 100px;
+  margin: 0;
+}

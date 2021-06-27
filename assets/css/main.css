@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.section--darkgray {
+  background-color: #686963;
+}
+
+.footer__container {
+  padding: 50px 0;
+  text-align: center;
+}
+
+.footer__image {
+  width: 300px;
+  height: 149px;
+}
+
+.logo__image {
+  padding: 20px 0 20px 100px;
+  width: 300px;
+  height: 61px;
+}
+
+.section--orange {
+  background-color: #e56353;
+}
+
+.section--gray {
+  background-color: #a0a0a0;
+  padding: 100px 0;
+}
+
+.section__title__gray {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: #fff;
+}
+
+.section__gray__text {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: #fff;
+}
+
+.section__title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 100px;
+  color: #fff;
+  margin: 0;
+  padding: 200px 0;
+}
+
+.section__title__emphasis {
+  font-size: 100px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.section__container {
+  text-align: center;
+}
+
+.section--white {
+  padding: 100px 0;
+}
+
+.section__title__white {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.section__white__text {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.section_about {
+  background-color: #e56353;
+}
+
+.section__title_about {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 100px;
+  color: #fff;
+  margin: 0;
+  padding: 100px 0;
+}
+
+.section__white__title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  margin: 20px;
+}
+
+.section__image {
+  padding-top: 100px;
+}
+
+.section__contact {
+  background-color: #e56353;
+}
+
+.section__contact__title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 70px;
+  color: #fff;
+  padding-top: 100px;
+  margin: 0;
+}
+
+.button__contact {
+  padding: 20px 80px;
+  border-radius: 50px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: #686963;
+  text-transform: uppercase;
+  margin: 50px 0;
+}
+.button__contact:hover {
+  background-color: #f0a9a1;
+}
+
+/*# sourceMappingURL=main.css.map */
